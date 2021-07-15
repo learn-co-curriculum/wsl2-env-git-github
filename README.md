@@ -64,17 +64,9 @@ Flatiron School Portal account to your GitHub account.
 1. Open the [Flatiron School Student Portal webpage][flatiron portal]
    (https://portal.flatironschool.com) _(Note: you need to be logged in to
    Flatiron School Student Portal.)_
-2. Click on "Course" in the navigation bar at the top of the screen
-3. Click the blue "Switch Materials" button in the dropdown
-4. Click on the course that you are about to start
-5. Open the [GitHub Account Management webpage][github account]
-   (https://learn.co/account/github) _(Note: you may be asked to log in. Use
-   your Flatiron School Student Portal username and password here.)_
-   <!-- Note: this domain is not the Portal because of Canvas flows -->
-6. Connect your GitHub account to your Flatiron School Portal account
+2. Connect your GitHub account to your Flatiron School Portal account
 
 [flatiron portal]: https://portal.flatironschool.com
-[github account]: https://learn.co/account/github
 
 ### Check Your Work
 
@@ -103,17 +95,17 @@ terminal.
 4. Go to your [Public Profile Management webpage][]
    (https://portal.flatironschool.com/account/profile) in your browser _(Note:
    if you’re not logged in, you will need to log in again.)_
-5. Look for the "Username" heading and copy your username, but do not copy the
-   text `https://learn.co/`
-6. Go to your Flatiron School Student Portal Profile page
-   ("https://portal.flatironschool.com/" + your username)
-7.  Scroll all the way to the bottom of the page to the heading "The information
-    below is sensitive and unique to your account. Only you can view this
-    information." with a red background.
-8.  Copy the string of characters under the "OAuth token" header
-9.  Paste the string of characters into the terminal and press `<Enter>`
+_(Note: To reduce the work from step 5 to 8 you can click [here] then continue to the rest of the steps.)_
+5. On the top right-hand corner click on your profile picture (This will open a drop down menu).
+6. Click on Base.
+7. Again on the top right-hand corner click on the profile picture.
+8. Click on Account Management.
+9.  Copy the string of characters under the "OAuth token" header
+10.  Paste the string of characters into the terminal and press `<Enter>`
 
 [Public Profile Management webpage]: https://portal.flatironschool.com/account/profile
+
+[here]: https://base.flatironschool.com/account/manage
 
 ### Check Your Work
 

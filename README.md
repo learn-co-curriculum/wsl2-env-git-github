@@ -95,7 +95,7 @@ terminal.
 4. Go to your [Public Profile Management webpage][]
    (https://portal.flatironschool.com/account/profile) in your browser _(Note:
    if you’re not logged in, you will need to log in again.)_
-_(Note: To reduce the work from step 5 to 8 you can click [here] then continue to the rest of the steps.)_
+_(Note: To reduce the work from step 5 to 8 you can click [Account Management][Flatiron Account Management] then continue to the rest of the steps.)_
 5. On the top right-hand corner click on your profile picture (This will open a drop down menu).
 6. Click on Base.
 7. Again on the top right-hand corner click on the profile picture.
@@ -105,7 +105,7 @@ _(Note: To reduce the work from step 5 to 8 you can click [here] then continue t
 
 [Public Profile Management webpage]: https://portal.flatironschool.com/account/profile
 
-[here]: https://base.flatironschool.com/account/manage
+[Flatiron Account Management]: https://base.flatironschool.com/account/manage
 
 ### Check Your Work
 

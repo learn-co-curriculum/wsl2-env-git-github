@@ -64,7 +64,12 @@ Flatiron School Portal account to your GitHub account.
 1. Open the [Flatiron School Student Portal webpage][flatiron portal]
    (https://portal.flatironschool.com) _(Note: you need to be logged in to
    Flatiron School Student Portal.)_
-2. Connect your GitHub account to your Flatiron School Portal account
+2. Click on your user icon in the top right-hand corner.
+3. _(Note: To reduce the work from step 3 to 6 you can click [Account Management][Flatiron Account Management] then continue to the rest of the steps.)_
+4. Click on Base.
+5. Again on the top right-hand corner click on the profile picture.
+6. Click on Account Management.
+7. Click on Create Account if you don't have one, or if you have a Github account then click on Connect Account.
 
 [flatiron portal]: https://portal.flatironschool.com
 
